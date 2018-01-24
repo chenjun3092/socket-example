@@ -1,6 +1,8 @@
 # socket-example
 
-This is trying to socket networking by Golang.
+This is trying to TCP socket networking by Golang. Ref to https://astaxie.gitbooks.io/build-web-application-with-golang/ja/08.1.html
+
+I build TCP Client and Server.
 
 ## how to try
 
